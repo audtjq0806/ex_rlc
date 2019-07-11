@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : ex2_rlc.brd                                   )
+(    Software Version : 17.2S038                                      )
+(    Date/Time        : Thu Jul 11 09:42:27 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 2
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (11.722 21.082)  Net: VCC
+	Point on shape: (5.715 21.082)  Net: VCC
